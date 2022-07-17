@@ -18,4 +18,4 @@ There were 355 non-vine reviews
 
 # Summary: 
 
-In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+The current dataset selected for analysis didn’t have any written reviews from Amazon Vine members. At this point, I am unable to look for a possible bias toward favorable vine member reviews. Before reaching any conclusions, we should look into the reason why this product, gift card, doesn’t have any written reviews. 
